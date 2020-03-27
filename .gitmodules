@@ -1,0 +1,9 @@
+[submodule "Extracurricular-Activities-Management-Software-Adminconsole"]
+	path = Extracurricular-Activities-Management-Software-Adminconsole
+	url = https://github.com/MaltePetersen/Extracurricular-Activities-Management-Software-Adminconsole
+[submodule "Extracurricular-Activities-Management-Software-Frontend"]
+	path = Extracurricular-Activities-Management-Software-Frontend
+	url = https://github.com/MaltePetersen/Extracurricular-Activities-Management-Software-Frontend
+[submodule "Extracurricular-Activities-Management-Software-Backend"]
+	path = Extracurricular-Activities-Management-Software-Backend
+	url = git@github.com:MaltePetersen/Extracurricular-Activities-Management-Software-Backend.git
